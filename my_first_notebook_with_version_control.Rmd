@@ -1,0 +1,13 @@
+---
+title: "My first notebook with git version control weehaa!"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+Does this actually work? 
+```{r}
+plot(cars)
+```
+
